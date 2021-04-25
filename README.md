@@ -1,4 +1,4 @@
 # Java-CRUD-Project
 
-![1](http://url/to/img.png)
-![2](http://url/to/img.png)
+![1](https://github.com/iqie00/Java-CRUD-Project/blob/main/1.png)
+![2](https://github.com/iqie00/Java-CRUD-Project/blob/main/2.png)
